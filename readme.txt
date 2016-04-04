@@ -3,7 +3,7 @@ Contributors: tcattd, tcattitude, ramirotenorio
 Tags: video, gallery, galleries, playlist, cms, embed, youtube, vimeo, ustream, shortcode, player, widget, skins, mobile, video-gallery
 Requires at least: 3.5.1
 Tested up to: 4.4
-Stable tag: 1.0.6.5
+Stable tag: 1.0.6.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
